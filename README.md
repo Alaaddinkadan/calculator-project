@@ -43,9 +43,8 @@ calculator-project/
 ├── test_calculator.py   # pytest unit tests
 └── README.md            # project documentation
 
-## 🔹 Next Steps
-1. Replace your current `README.txt` with this polished version as `README.md`.  
-2. Commit and push:  
+## Next Steps
+Commit and push:  
    ```bash
    git add README.md
    git commit -m "Improved README formatting and clarity"
