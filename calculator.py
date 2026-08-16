@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Adds two numbers
 def add(a, b):
     return a + b
@@ -57,3 +58,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+print('Hello World')
+>>>>>>> e5ef6ee0552c4d41f3d4c567a6691bcd881bbf9e
